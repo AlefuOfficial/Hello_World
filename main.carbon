@@ -1,6 +1,6 @@
 package main api;
 
 fn Main() -> i32 {
-    Print("Hello World")
+    Print("Hello World");
     return 0;
 }
